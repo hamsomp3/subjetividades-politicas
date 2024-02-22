@@ -1,0 +1,5 @@
+.env
+.venv/
+data/facebook/
+chroma.log
+data/chroma_data/
