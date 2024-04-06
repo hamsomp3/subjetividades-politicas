@@ -2,3 +2,7 @@
 .venv/
 *.html
 *.png
+notebooks/__pycache__/subjetividades.cpython-311.pyc
+data/raw/~$Extremismo.xlsx
+img/images/
+img/

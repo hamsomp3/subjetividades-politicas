@@ -11,3 +11,5 @@ folium==0.15.1
 seaborn==0.13.2
 kaleido
 watchdog
+wordcloud
+nltk
