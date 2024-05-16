@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+médicos: 1.0
+pensamiento: 0.75
+Cómo: 0.75
+mire: 0.75
+política: 0.5
+religión: 0.5
+Cali: 0.5
+radicales: 0.5
+Igual: 0.5
+cambiar: 0.5

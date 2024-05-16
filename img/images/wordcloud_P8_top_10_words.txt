@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+gobierno: 1.0
+ejemplo: 0.6333333333333333
+gente: 0.6333333333333333
+Uribe: 0.6
+paz: 0.6
+persona: 0.6
+cosa: 0.6
+Petro: 0.43333333333333335
+bueno: 0.43333333333333335
+presidente: 0.4

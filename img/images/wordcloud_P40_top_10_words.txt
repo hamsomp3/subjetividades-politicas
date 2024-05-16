@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+estrato: 1.0
+persona: 0.8
+puede: 0.7
+política: 0.7
+niño: 0.7
+casa: 0.6
+hijo: 0.5
+realmente: 0.5
+trabajo: 0.5
+pienso: 0.5

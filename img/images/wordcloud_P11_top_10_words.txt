@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+gobierno: 1.0
+presidente: 0.8333333333333334
+persona: 0.8333333333333334
+cosas: 0.8333333333333334
+Uribe: 0.5
+sector: 0.5
+Duque: 0.5
+contrario: 0.5
+momento: 0.5
+hizo: 0.5

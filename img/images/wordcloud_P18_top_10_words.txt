@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+persona: 1.0
+cosa: 0.8
+centro: 0.8
+ejemplo: 0.6
+dólar: 0.4666666666666667
+malo: 0.4666666666666667
+partido: 0.4666666666666667
+izquierda: 0.4
+bueno: 0.4
+pienso: 0.4

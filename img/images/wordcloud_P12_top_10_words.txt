@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+cosas: 1.0
+va: 0.72
+país: 0.56
+da: 0.52
+sentimiento: 0.52
+realmente: 0.52
+cómo: 0.48
+gobierno: 0.44
+miedo: 0.44
+digo: 0.36

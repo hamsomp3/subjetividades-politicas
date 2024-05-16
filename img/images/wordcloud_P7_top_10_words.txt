@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+gobierno: 1.0
+ejemplo: 0.7142857142857143
+persona: 0.6428571428571429
+reforma: 0.5714285714285714
+país: 0.5
+hecho: 0.5
+gente: 0.42857142857142855
+creo: 0.42857142857142855
+verdad: 0.42857142857142855
+Uribe: 0.42857142857142855
