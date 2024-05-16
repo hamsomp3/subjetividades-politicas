@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+persona: 1.0
+creo: 0.6666666666666666
+izquierda: 0.6
+cosa: 0.5333333333333333
+país: 0.4666666666666667
+cómo: 0.4
+grupo: 0.4
+Petro: 0.4
+posiciones: 0.4
+sé: 0.3333333333333333

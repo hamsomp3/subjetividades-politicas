@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+tema: 1.0
+persona: 1.0
+decirlo: 0.8
+pastores: 0.8
+totalmente: 0.8
+decir: 0.8
+cosa: 0.8
+disminuida: 0.8
+frustrante: 0.8
+buena: 0.6

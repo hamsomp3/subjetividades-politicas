@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+persona: 1.0
+cosas: 0.875
+situación: 0.5
+hace: 0.5
+igual: 0.5
+Creo: 0.5
+ejemplo: 0.5
+salud: 0.5
+llega: 0.5
+cómo: 0.5

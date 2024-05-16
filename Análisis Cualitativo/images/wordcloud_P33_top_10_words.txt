@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+cosa: 1.0
+persona: 0.625
+izquierda: 0.5625
+universidad: 0.5
+mucha: 0.5
+gente: 0.4375
+momento: 0.4375
+bueno: 0.375
+realmente: 0.375
+forma: 0.375

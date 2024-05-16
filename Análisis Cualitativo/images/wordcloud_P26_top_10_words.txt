@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+cosa: 1.0
+derecha: 0.7857142857142857
+centro: 0.7142857142857143
+izquierda: 0.6428571428571429
+cómo: 0.5714285714285714
+Petro: 0.5714285714285714
+persona: 0.5714285714285714
+creo: 0.5
+izquierdista: 0.5
+partido: 0.42857142857142855

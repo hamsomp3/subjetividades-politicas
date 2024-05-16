@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+tema: 1.0
+votar: 1.0
+persona: 1.0
+mamá: 0.8
+pastores: 0.8
+va: 0.8
+cosa: 0.6
+buena: 0.6
+papá: 0.6
+religión: 0.6

@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+daño: 1.0
+lado: 0.7
+hecho: 0.7
+puede: 0.7
+sido: 0.7
+derecha: 0.6
+política: 0.5
+ahora: 0.5
+izquierda: 0.5
+cosa: 0.5

@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+derecha: 1.0
+izquierda: 0.6111111111111112
+cosas: 0.5
+va: 0.5
+momento: 0.3888888888888889
+persona: 0.3888888888888889
+gobierno: 0.2777777777777778
+pienso: 0.2777777777777778
+grupo: 0.2777777777777778
+valores: 0.2777777777777778

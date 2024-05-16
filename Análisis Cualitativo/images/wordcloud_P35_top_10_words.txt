@@ -1,0 +1,11 @@
+Top 10 palabras más frecuentes en la nube de palabras:
+coherente: 1.0
+gobierno: 0.6
+ejemplo: 0.6
+cosas: 0.6
+personas: 0.6
+Petro: 0.4
+hace: 0.4
+bueno: 0.4
+mejor: 0.4
+propuestas: 0.4
