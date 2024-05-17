@@ -15,7 +15,8 @@ High perceived political polarization was found, although there was a tendency t
 ## Discusión
 Este análisis explora las subjetividades políticas de adultos en Cali, revelando una alta polarización y predominio de emociones negativas. Aunque los participantes reconocen la división, pocos muestran disposición real para el diálogo o el cambio de postura. Evitan temas políticos para mantener relaciones afectivas, pero interactúan más con amigos que con familiares de ideología opuesta. Las emociones negativas como miedo y angustia llevan a refugiarse en "cámaras de eco", dificultando el diálogo. La relación entre nivel educativo y angustia sugiere influencia en la capacidad de manejar pensamientos obsesivos. La falta de congruencia interpersonal dificulta la colaboración y agrava el conflicto social. En resumen, la polarización y las emociones negativas limitan el diálogo y refuerzan la tendencia al aislamiento, destacando la complejidad del panorama político en Cali.
 
-![Nube de Palabras](./Análisis Cualitativo/images/wordcloud_P16.png)
+![Nube de Palabras](./img/wordcloud_P16.png)
+
 
 ## Discussion
 This analysis explores the political subjectivities of adults in Cali, revealing high polarization and a predominance of negative emotions. Although participants acknowledge the division, few show genuine willingness for dialogue or change of stance. They avoid political topics to maintain affective relationships, but interact more with friends than with family members of opposing ideologies. Negative emotions like fear and anguish lead to retreating into "echo chambers," hindering dialogue. The relationship between education level and distress suggests influence on coping with obsessive thoughts. Lack of interpersonal congruence complicates collaboration and exacerbates social conflict. In summary, polarization and negative emotions limit dialogue and reinforce the tendency toward isolation, highlighting the complexity of the political landscape in Cali.
@@ -29,5 +30,6 @@ For additional information or questions about the project, you can reach out to 
 - vanessadelgado@javerianacali.edu.co
 
 - [LinkedIn](www.linkedin.com/in/vanessa-delgado-01218421b)
+- [LinkedIn](www.linkedin.com/in/hannah-mora-028181304)
 
 We will be happy to assist you. Thank you for your interest in this project!
