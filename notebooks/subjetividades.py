@@ -31,27 +31,6 @@ def create_data_directories(base_path):
 
         return list_of_folders#Pendiente
 
-# def create_pie_chart(df, column_name, file_name, plot_title,output_folder,visualize):
-#     unique_values = df[column_name].value_counts()
-
-#     # Create a pie chart using Plotly Express
-#     fig = px.pie(values=unique_values.values,
-#                 names=unique_values.index,
-#                 title=f'Pie Chart of {plot_title}',
-#                 labels={'names': '', 'values': ''},
-#                 hole=0.3
-#                 )
-#     fig.update_traces(textinfo='percent+label',
-#                     pull=[0.05]*len(unique_values.index)
-#                     )
-    
-#     if visualize:
-#         fig.show()
-    
-
-#     # Save the plot as an HTML file
-#     fig.write_html(output_folder.joinpath('pie_chart_'+file_name + '.html'))
-
 def create_bar_chart(df, column_name, file_name, plot_title,output_folder,visualize):
     unique_values = df[column_name].value_counts()
 
